@@ -88,8 +88,7 @@ Through this project I learned:
 
 ## Screenshots
 ![alt text](image.png)
-![alt text](image-1.png)
-
+![alt text](image-2.png)
 
 ## Author
 
