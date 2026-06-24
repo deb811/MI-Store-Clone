@@ -87,7 +87,8 @@ Through this project I learned:
 - Improve UI and animations
 
 ## Screenshots
-
+![alt text](image.png)
+![alt text](image-1.png)
 
 
 ## Author
